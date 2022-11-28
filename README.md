@@ -14,8 +14,12 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 Desktop - Dark Theme
 
+<img width="1176" alt="image" src="https://user-images.githubusercontent.com/53529387/204282536-78c7308d-63cd-450e-89bb-3010ea0ee5b9.png">
+
 
 Desktop - White Theme
+
+<img width="1146" alt="image" src="https://user-images.githubusercontent.com/53529387/204282627-cae14af3-55e2-4988-a571-1c8439457105.png">
 
 
 
